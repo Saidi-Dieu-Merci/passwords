@@ -1,4 +1,4 @@
-# Getting Started
+# My password project
 Install the dependencies and run the project
 ```
 npm install
